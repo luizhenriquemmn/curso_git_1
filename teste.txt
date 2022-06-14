@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-git  git sd 12
-=======
-1234
->>>>>>> teste_criacao_2
-=======
-12345324324
->>>>>>> teste_criacao_2
+teste
