@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Testando Atualização do 12
 =======
 123
+>>>>>>> teste_criacao_2
+=======
+12345
 >>>>>>> teste_criacao_2
